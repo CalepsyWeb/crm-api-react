@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Alessandra act",
+      "empresa": "Pianeta",
+      "email": "correo@correo.com",
+      "telefono": "622317728",
+      "notas": "El cliente solicita un producto",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Karen diseño",
+      "email": "karen@correo.com",
+      "telefono": "622387728",
+      "notas": "Diseñadora",
+      "id": 2
+    },
+    {
+      "nombre": "paolina",
+      "empresa": "paolina const",
+      "email": "paolina@paolina.com",
+      "telefono": "52418769",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "CCJ",
+      "email": "correo@juan.com",
+      "telefono": "54564654",
+      "notas": "afg",
+      "id": 4
+    }
+  ]
+}
